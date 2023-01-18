@@ -3,8 +3,7 @@ function abbrevName(name){
     return first[0].toUpperCase() + '.' + last[0].toUpperCase()
   }
 
-  /*
-
+/*
 function abbrevName(name){
 
   var nameArray = name.split(" ");
@@ -24,5 +23,4 @@ or
 function abbrevName(name){
   return name.split(' ').map(x => x.substr(0, 1).toUpperCase()).join('.');
 }
-
   */
