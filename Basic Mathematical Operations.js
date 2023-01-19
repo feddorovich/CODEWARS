@@ -13,7 +13,8 @@ function basicOp(operation, value1, value2) {
     }
   }
 
-/* 
+/*
+
 function basicOp(operation, value1, value2)
 {
   if( operation == "+") {
@@ -29,4 +30,5 @@ function basicOp(operation, value1, value2)
     return value1 / value2
   }
 }
+
 */
