@@ -20,5 +20,5 @@ function sumTwoSmallestNumbers(numbers) {
 
     return numbers[0] + numbers[1]
 
-    Сортировка пузырьком
+    Сортировка пузырьком / Bubble sort
 }*/
